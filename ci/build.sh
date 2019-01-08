@@ -2,5 +2,5 @@
 set -e
 
 echo "Building the project..."
-sleep 3
+sleep 30
 echo "Building the project...complete"
